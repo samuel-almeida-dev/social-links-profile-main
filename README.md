@@ -8,8 +8,7 @@ Resolução 1920x1080: ![image](https://github.com/samuel-almeida-dev/social-lin
 
 Nesta página, foi adotada a unidade de medida "vh" para garantir flexibilidade de tela em diferentes resoluções, inclusive em dispositivos móveis, como smartphones. A utilização de "vh" permite que os elementos se ajustem dinamicamente com base na altura da janela de visualização do dispositivo, proporcionando uma experiência consistente e responsiva em uma variedade de tamanhos de tela. Isso significa que o layout e o conteúdo da página permanecem acessíveis e bem apresentados, independentemente da resolução do dispositivo utilizado para visualizá-la.
 
-![image](https://github.com/samuel-almeida-dev/social-links-profile-main/assets/130515347/674d4af0-af32-45c8-b19d-83048a977271)
-
+![image](https://github.com/samuel-almeida-dev/social-links-profile-main/assets/130515347/7819b956-aced-4aa9-8b78-56a709010164)
 
 HTML:
 - Meta tags: Utilizadas para configurar a codificação de caracteres e a viewport.

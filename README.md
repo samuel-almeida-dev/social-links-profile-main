@@ -1,11 +1,13 @@
 # social-links-profile-main
-Neste pequeno projeto, construí meu perfil de compartilhamento de links sociais. Você pode  personalizar e usá-lo para compartilhar todos os seus perfis sociais!
+## Neste pequeno projeto, construí meu perfil de compartilhamento de links sociais. Você pode  personalizar e usá-lo para compartilhar todos os seus perfis sociais!
+[Visite a página.](https://samuel-almeida-dev.github.io/social-links-profile-main/)
 <br>
 <br>
 Resolução 1920x1080: ![image](https://github.com/samuel-almeida-dev/social-links-profile-main/assets/130515347/90b106f4-7518-4fbf-815e-b724c5c87ed8)
 
 
 Nesta página, foi adotada a unidade de medida "vh" para garantir flexibilidade de tela em diferentes resoluções, inclusive em dispositivos móveis, como smartphones. A utilização de "vh" permite que os elementos se ajustem dinamicamente com base na altura da janela de visualização do dispositivo, proporcionando uma experiência consistente e responsiva em uma variedade de tamanhos de tela. Isso significa que o layout e o conteúdo da página permanecem acessíveis e bem apresentados, independentemente da resolução do dispositivo utilizado para visualizá-la.
+
 ![image](https://github.com/samuel-almeida-dev/social-links-profile-main/assets/130515347/674d4af0-af32-45c8-b19d-83048a977271)
 
 

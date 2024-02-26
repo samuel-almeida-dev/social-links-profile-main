@@ -2,7 +2,7 @@
 Neste pequeno projeto, construí meu perfil de compartilhamento de links sociais. Você pode personalizar e usá-lo para compartilhar todos os seus perfis sociais!
 
 ## Visualize a Página
-Resolução 1920x1080: ![image](https://github.com/samuel-almeida-dev/social-links-profile-main/assets/130515347/90b106f4-7518-4fbf-815e-b724c5c87ed8)
+![image](https://github.com/samuel-almeida-dev/social-links-profile-main/assets/130515347/90b106f4-7518-4fbf-815e-b724c5c87ed8)
 Para visualizar a página em ação, acesse este [link.](https://samuel-almeida-dev.github.io/social-links-profile-main/)
 
 ## Visão Geral
